@@ -1,0 +1,93 @@
+{
+    "products": [
+        {
+            "id": 1001,
+            "title": "Cat Food, 25kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 200,
+            "image": "data:image/jpeg;base64,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",
+            "inventory": 10,
+            "rating": 3
+        },
+        {
+            "id": 1002,
+            "title": "Dog Food, 30kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQxGgk2oXzm5sKMRj0t8n8uWDST2xVOkmvQ&usqp=CAU",
+            "inventory": 10,
+            "rating": 2
+        },
+        {
+            "id": 1003,
+            "title": "Cat Foods, 40kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 2002,
+            "image": "data:image/jpeg;base64,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",
+            "inventory": 10,
+            "rating": 3
+        },
+        {
+            "id": 1004,
+            "title": "Dog Foods, 70kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your og.",
+            "price": 2002,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysL6ZyihuDHZUJYLTWKdLzQFzVAYmRE0JGg&usqp=CAU",
+            "inventory": 10,
+            "rating": 3
+        },
+        {
+            "id": 1005,
+            "title": "Cats delicates Food, 50kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 290,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3bbaxEYOAr8Sbg1GJl8rnSs2roeA1bXWfsYMTxQEo7KmYo_0ZDmrFOkGr4MMLJtilzk&usqp=CAU",
+            "inventory": 40,
+            "rating": 4
+        },
+        {
+            "id": 1006,
+            "title": "Dog delicates Food, 25kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 2002,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEAau9FACRxoTnPqO6SN4iDjPSvItuxMvbw&usqp=CAU",
+            "inventory": 10,
+            "rating": 3
+        },
+        {
+            "id": 1007,
+            "title": " Food for cat, 25kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 2002,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kQeDGroqegr64eKpO-K5lhiN6okUUrA6jg&usqp=CAUg",
+            "inventory": 10,
+            "rating": 3
+        },
+        {
+            "id": 1008,
+            "title": "Cats favorite Food, 26 pound bag  organic goodness for your cat.",
+            "price": 2002,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKjFFWQU0RKKcrGFd51cH8UzEO1bnj9Lr8A&usqp=CAU",
+            "inventory": 50,
+            "rating": 4
+        },
+        {
+            "id": 1009,
+            "title": "Dog favorite Food, 5kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 2002,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsgmlQgNaDeHJe_s66opsGWK_T9rNb69xIw&usqp=CAU",
+            "inventory": 10,
+            "rating": 6
+        },
+        {
+            "id": 1010,
+            "title": "Dog favorite Foods, 34kg bag",
+            "description": "А 25 pound bag of irresistiЬle organic goodness for your cat.",
+            "price": 2002,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsgmlQgNaDeHJe_s66opsGWK_T9rNb69xIw&usqp=CAU",
+            "inventory": 70,
+            "rating": 5
+        }
+    ]
+}
